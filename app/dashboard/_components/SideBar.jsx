@@ -39,7 +39,7 @@ function SideBar() {
   return (
     <div className="h-screen shadow-md p-5">
       <div className="flex gap-2 items-center">
-        <Image src={"/riseLogo.svg"} alt="logo" width={230} height={230} />
+        <Image src="/RiseLogo.svg" alt="logo" width={230} height={230} />
       </div>
 
       <div className="mt-10">
