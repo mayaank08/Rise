@@ -180,7 +180,7 @@ function Upgrade() {
         key: orderResponse.data.key,
         amount: orderResponse.data.amount,
         currency: orderResponse.data.currency,
-        name: "Rise",
+        name: "rise",
         description: "Premium Membership",
         order_id: orderResponse.data.id,
         customer_id: customerId,

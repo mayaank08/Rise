@@ -1,6 +1,6 @@
-import { SignUp } from '@clerk/nextjs'
+import { SignUp } from "@clerk/nextjs";
 import Image from "next/image";
-import RiseLogo from "/public/RiseLogo.svg"; // Import the logo
+import riseLogo from "/public/riseLogo.svg"; // Import the logo
 import SignUpBg from "/public/signUpBg.jpg"; // Import the background image
 
 export default function Page() {
@@ -21,8 +21,8 @@ export default function Page() {
       <div className="flex flex-col items-center justify-center bg-white bg-opacity-80 p-6 rounded-lg shadow-lg">
         {/* Logo */}
         <Image
-          src={RiseLogo}
-          alt="Rise Logo"
+          src={riseLogo}
+          alt="rise Logo"
           width={200}
           height={200}
           className="mb-6"

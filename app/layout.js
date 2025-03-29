@@ -11,8 +11,8 @@ const audioWide = Audiowide({
 });
 
 export const metadata = {
-  title: "Rise - Your Learning Platform",
-  description: "Learn and grow with Rise",
+  title: "rise - Your Learning Platform",
+  description: "Learn and grow with rise",
 };
 
 export default function RootLayout({ children }) {
