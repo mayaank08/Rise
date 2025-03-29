@@ -1,6 +1,6 @@
 import { SignUp } from "@clerk/nextjs";
 import Image from "next/image";
-import riseLogo from "/public/riseLogo.svg"; // Import the logo
+import riseLogo from "/public/RiseLogo.svg"; // Import the logo
 import SignUpBg from "/public/signUpBg.jpg"; // Import the background image
 
 export default function Page() {
