@@ -1,21 +1,9 @@
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="public/riseLogo.svg" alt="Logo" width="300" height="300">
-  </a>
-  <p align="center">
-    <a href="">View Demo</a>
-    ·
-    <a href="https://github.com/ThanhDatVu111/Project-rise/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/ThanhDatVu111/Project-rise/pulls">Request Feature</a>
-  </p>
-</div>
 
 <!-- TABLE OF CONTENTS -->
 
 <!-- ABOUT THE PROJECT -->
+
+## DEMO - https://rise-tan.vercel.app/
 
 ## 🚀 Home
 
